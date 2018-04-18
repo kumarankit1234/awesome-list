@@ -7,7 +7,7 @@ window.onload = function () {
 }
 
 const colors = ['red', 'blue', 'dark-blue', 'dark-green', 'light-green', 'dark-maroon', 'green'];
-const apiUrl = 'http://learning.us-3.evennode.com/';
+const apiUrl = 'http://learning.us-3.evennode.com';
 
 // ************* API Calls **************
 function getAllTopics() {
